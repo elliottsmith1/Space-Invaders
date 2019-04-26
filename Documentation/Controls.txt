@@ -1,0 +1,25 @@
+Main menu:
+
+"1" = Play new game
+"2" = Show controls
+"3" or "escape" = Exit
+
+Control screen:
+
+"escape" = return to main menu
+
+Playing:
+
+"a" = move left
+"d" = move right
+"spacebar" = shoot
+"escape" = return to main menu
+"p" = pause 
+
+Pause screen:
+
+"p" = un-pause
+
+Game over:
+
+"escape" = return to main menu 

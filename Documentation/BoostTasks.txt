@@ -1,0 +1,5 @@
+Boost tasks attempted:
+
+-Bonus lives - life given back upon completion of round
+
+-Audio - Sound effects using irrKlang engine for: shooting, explosions and mothership
